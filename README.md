@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hemasrin3
-- 👀 I’m interested in learning new thungs
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
